@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="conexao-Web.config Connection String" description="conexao Connection String used in web.config by the application to access the database." defaultValue="server=localhost;user id=root;password=12345;database=dbFAZENDA" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\clebe\\OneDrive\\Área\ de\ Trabalho\\PhB\\TCC\\FazendaAPI\\FazendaAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='conexao']/@connectionString" />
+  </parameter>
+</parameters>
